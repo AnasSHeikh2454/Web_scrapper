@@ -110,3 +110,5 @@ If you have any questions or need further assistance, please feel free to contac
 [Anas Sheikh]
 
 Email: [[anassheikh926@gmaul.com](mailto\:anassheikh926@gmaul.com)]
+note: There is a sample more detailed code of a Web_scrapper in script scrapper_API.py  
+
