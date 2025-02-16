@@ -1,0 +1,18 @@
+Cryptocurrency Market Analysis Report
+========================================
+
+Top 5 Cryptocurrencies by Market Capitalization:
+    name    market_cap
+ Bitcoin 1910789981202
+Ethereum  317048535314
+  Tether  141936414808
+     XRP  139839327707
+  Solana   95880786183
+
+Average Price of Top 50 Cryptocurrencies: $4180.90
+
+Highest 24-Hour Price Change:
+  sUSDS: 0.14%
+
+Lowest 24-Hour Price Change:
+  Litecoin: -8.93%
